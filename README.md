@@ -7,6 +7,5 @@
 - [寫程式](/Code/README.md)
 - [作文/文章](/作文和文章/README.md)
 
-## AI 介紹
 
-    [前往吧](/AI介紹/README.md)
+## [AI 介紹](/AI介紹/README.md)
