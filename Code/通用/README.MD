@@ -14,9 +14,9 @@
 
 ## 軟體
 
-1. [Cursor](https://cursor.com)
-2. [Windsurf](https://windsurf.com)
-3. [Google Antigravity](https://antigravity.google)
-4. [Visual Studio Code(擴充套件)](https://code.visualstudio.com)
-5. [IntelliJ IDEA](https://www.jetbrains.com/idea)
+1. [Cursor](/AI介紹/軟體/CURSOR.md)
+2. [Windsurf](/AI介紹/軟體/Windsurf.md)
+3. [Google Antigravity](/AI介紹/軟體/ANTIGRAVITY.md)
+4. [Visual Studio Code(擴充套件)](/AI介紹/軟體/Vsc.md)
+5. [IntelliJ IDEA](/AI介紹/軟體/IDEA.md)
 6. Website
