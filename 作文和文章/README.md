@@ -2,9 +2,9 @@
 
 ## 模型
 
-1. [Gemini](https://gemini.google.com)
-2. [ChatGPT](https://chatgpt.com)
-3. [Claude](https://claude.ai)
+1. [Gemini](/AI介紹/模型/Gemini.md)
+2. [ChatGPT](/AI介紹/模型/Chatgpt.md)
+3. [Claude](/AI介紹/模型/Claude.md)
 
 ### 軟體
 

@@ -11,8 +11,8 @@
 
 ### 選擇模型
 
-* **[ChatGPT](https://chatgpt.com)**
-* **[Gemini](https://gemini.google.com)**
-* **[Claude](https://claude.ai)**
+* **[ChatGPT](/AI介紹/模型/Chatgpt.md)**
+* **[Gemini](/AI介紹/模型/Gemini.md)**
+* **[Claude](/AI介紹/模型/Claude.md)**
 
 </center>

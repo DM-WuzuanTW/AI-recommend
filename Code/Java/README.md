@@ -2,15 +2,15 @@
 
 ## 功能
 
-1. [Claude](https://claude.ai)
-2. [Gemini](https://gemini.google.com)
-3. [ChatGPT](https://chatgpt.com)
+1. [Claude](/AI介紹/模型/Claude.md)
+2. [Gemini](/AI介紹/模型/Gemini.md)
+3. [ChatGPT](/AI介紹/模型/Chatgpt.md)
 
 ## 裝飾
 
-1. [ChatGPT](https://chatgpt.com)
-2. [Gemini](https://gemini.google.com)
-3. [Claude](https://claude.ai)
+1. [ChatGPT](/AI介紹/模型/Chatgpt.md)
+2. [Gemini](/AI介紹/模型/Gemini.md)
+3. [Claude](/AI介紹/模型/Claude.md)
 
 ## 軟體
 
@@ -21,4 +21,4 @@
 5. [Visual Studio Code(擴充套件)](/AI介紹/軟體/Vsc.md)
 6. Website
 
-這邊建議 使用 [Cursor](/AI介紹/軟體/CURSOR.md) 寫代碼使用 [IntelliJ IDEA](/AI介紹/軟體/IDEA.md) 綁 [Gemini](https://gemini.google.com) 做Debug
+這邊建議 使用 [Cursor](/AI介紹/軟體/CURSOR.md) 寫代碼使用 [IntelliJ IDEA](/AI介紹/軟體/IDEA.md) 綁 [Gemini](/AI介紹/模型/Gemini.md) 做Debug

@@ -2,15 +2,15 @@
 
 ## 功能
 
-1. [Claude](https://claude.ai)
-2. [Gemini](https://gemini.google.com)
-3. [ChatGPT](https://chatgpt.com)
+1. [Claude](/AI介紹/模型/Claude.md)
+2. [Gemini](/AI介紹/模型/Gemini.md)
+3. [ChatGPT](/AI介紹/模型/Chatgpt.md)
 
 ## 裝飾
 
-1. [ChatGPT](https://chatgpt.com)
-2. [Gemini](https://gemini.google.com)
-3. [Claude](https://claude.ai)
+1. [ChatGPT](/AI介紹/模型/Chatgpt.md)
+2. [Gemini](/AI介紹/模型/Gemini.md)
+3. [Claude](/AI介紹/模型/Claude.md)
 
 ## 軟體
 
